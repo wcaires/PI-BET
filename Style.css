@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+
+#caixa-mãe{
+    background-image: url(https://apostas.sorteador.com.br/wp-content/uploads/2024/03/capa-68-por-cento-de-times-bets-1024x585.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 510px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: start;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    padding: 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
+
+#btnCadastrar{
+    border-radius: 10px;
+}
+
+#form-cadastro{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(192, 192, 192, 0.568);
+    height: 350px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+#caixa-form{
+    background-color: white;
+    margin-top: 10px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+    width: 280px;
+    border-radius: 50px;
+}
